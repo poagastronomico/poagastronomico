@@ -1,0 +1,26 @@
+body{
+ background-color:#ffefe3 ; 
+ text-align: justify;
+}
+
+h1{
+    color: #000000;
+    background-color:#b58d6f ;
+    padding-bottom: 1px;
+    height:60px;
+    width: 600px;
+    margin-left: 380px;
+  text-align: center;
+  border-radius: 12px;
+}
+form{
+    text-align: center;
+    background-color:#b58d6f ;
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+}
+.php{
+    margin-left: 500px;
+}
+

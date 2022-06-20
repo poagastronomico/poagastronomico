@@ -1,0 +1,18 @@
+body{
+    background-color:#ffefe3 ; 
+    text-align: justify;
+}
+img{
+    width:200px;
+    height: 200px;
+}
+h1{
+    color: #000000;
+    background-color:#b58d6f ;
+    padding-bottom: 1px;
+    height:60px;
+    width: 600px;
+    margin-left: 400px;
+  text-align: center;
+  border-radius: 12px;
+}
